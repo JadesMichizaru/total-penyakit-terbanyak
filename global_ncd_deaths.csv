@@ -1,0 +1,421 @@
+Negara,Persentase Kematian NCD,Tahun
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",27.0533152966577,2010
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",26.1719074349669,2010
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",25.8807457565148,2011
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",25.3607840674341,2011
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",25.0680048749652,2012
+"{'id': 'XH', 'value': 'IDA blend'}",24.9783825555035,2010
+"{'id': 'XH', 'value': 'IDA blend'}",24.7268928572591,2011
+"{'id': 'XM', 'value': 'Low income'}",24.7084706323281,2010
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",24.6944842759075,2012
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",24.658970185696,2014
+"{'id': 'XM', 'value': 'Low income'}",24.5828385633851,2011
+"{'id': 'XH', 'value': 'IDA blend'}",24.401639594105,2012
+"{'id': 'XM', 'value': 'Low income'}",24.3373850101728,2012
+"{'id': 'XH', 'value': 'IDA blend'}",24.3057623168255,2013
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",24.2568644021794,2013
+"{'id': 'XM', 'value': 'Low income'}",24.1551258280688,2013
+"{'id': 'XH', 'value': 'IDA blend'}",24.0992705580758,2014
+"{'id': 'XG', 'value': 'IDA total'}",24.0941003082868,2010
+"{'id': 'XM', 'value': 'Low income'}",24.0781435781033,2015
+"{'id': 'XM', 'value': 'Low income'}",24.06763641595,2014
+"{'id': 'XM', 'value': 'Low income'}",23.9939202608286,2016
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.9925787884245,2010
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",23.926216038081,2010
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.901444332537,2011
+"{'id': 'XM', 'value': 'Low income'}",23.8916938111885,2017
+"{'id': 'XM', 'value': 'Low income'}",23.8907189106276,2020
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",23.8885230298952,2013
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",23.8594375607073,2010
+"{'id': 'XH', 'value': 'IDA blend'}",23.8132089947494,2015
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",23.7954460408513,2014
+"{'id': 'XG', 'value': 'IDA total'}",23.7865401456306,2011
+"{'id': 'XM', 'value': 'Low income'}",23.7790716696218,2018
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.7481087179448,2012
+"{'id': 'XI', 'value': 'IDA only'}",23.6497246304415,2010
+"{'id': 'XM', 'value': 'Low income'}",23.6480188502149,2019
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",23.6281418445929,2015
+"{'id': 'XH', 'value': 'IDA blend'}",23.6103399507871,2016
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.5470466023803,2013
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",23.5440626560543,2011
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",23.5278202591579,2011
+"{'id': 'XG', 'value': 'IDA total'}",23.4857748357391,2012
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.4298541815366,2014
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",23.4006166798303,2016
+"{'id': 'XH', 'value': 'IDA blend'}",23.3737942918099,2017
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.3523747871211,2015
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",23.3329638578739,2012
+"{'id': 'XI', 'value': 'IDA only'}",23.3131463449834,2011
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",23.302758178897,2010
+"{'id': 'XG', 'value': 'IDA total'}",23.2948545147191,2013
+"{'id': 'XN', 'value': 'Lower middle income'}",23.2635647071296,2011
+"{'id': 'XN', 'value': 'Lower middle income'}",23.2629792088435,2010
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.2489961754096,2016
+"{'id': 'XH', 'value': 'IDA blend'}",23.2028242459282,2020
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",23.1993959335769,2012
+"{'id': 'XN', 'value': 'Lower middle income'}",23.1734809628146,2012
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.1608448355363,2020
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.1532450902468,2017
+"{'id': 'XG', 'value': 'IDA total'}",23.1236673671972,2014
+"{'id': 'XH', 'value': 'IDA blend'}",23.1079537196449,2018
+"{'id': 'XN', 'value': 'Lower middle income'}",23.0694398377892,2018
+"{'id': 'XN', 'value': 'Lower middle income'}",23.0636656521968,2019
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",23.0576179301153,2018
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",23.0320984600538,2013
+"{'id': 'XM', 'value': 'Low income'}",23.0315144285971,2021
+"{'id': 'XI', 'value': 'IDA only'}",23.0243671218937,2012
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",23.0231287702257,2015
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.9897797209735,2011
+"{'id': 'XG', 'value': 'IDA total'}",22.9794405196763,2015
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.9698449398505,2014
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.9517330462616,2013
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.9491292174365,2020
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",22.930639510078,2019
+"{'id': 'XN', 'value': 'Lower middle income'}",22.9285361278222,2021
+"{'id': 'XH', 'value': 'IDA blend'}",22.8553366503562,2019
+"{'id': 'XG', 'value': 'IDA total'}",22.8430941975906,2016
+"{'id': 'XN', 'value': 'Lower middle income'}",22.8369469165357,2016
+"{'id': 'XN', 'value': 'Lower middle income'}",22.8194781772233,2015
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.809757372026,2020
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.7864426715155,2015
+"{'id': 'XN', 'value': 'Lower middle income'}",22.7854702493887,2017
+"{'id': 'XI', 'value': 'IDA only'}",22.7846830295507,2013
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.7799912759066,2014
+"{'id': 'XN', 'value': 'Lower middle income'}",22.7596300764303,2020
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.7432900408121,2015
+"{'id': 'XG', 'value': 'IDA total'}",22.7422837000239,2017
+"{'id': 'XN', 'value': 'Lower middle income'}",22.737472664069,2013
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.7225237360997,2016
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.7190137757581,2018
+"{'id': '1A', 'value': 'Arab World'}",22.6956322592647,2010
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.6929086562914,2016
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",22.6784058343722,2017
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.676032558209,2017
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",22.6647703848801,2019
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",22.6532117980648,2016
+"{'id': 'XG', 'value': 'IDA total'}",22.6404021863629,2018
+"{'id': 'XI', 'value': 'IDA only'}",22.631050881118,2014
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.6238844764939,2018
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",22.6163134509327,2018
+"{'id': 'XG', 'value': 'IDA total'}",22.6084136465502,2020
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.5871297553123,2010
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.5791631456209,2012
+"{'id': 'XI', 'value': 'IDA only'}",22.5587057183735,2015
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.541459201984,2020
+"{'id': 'XN', 'value': 'Lower middle income'}",22.5313209401075,2014
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.5279862740354,2017
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.5038297694601,2019
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.4905527837396,2015
+"{'id': 'XG', 'value': 'IDA total'}",22.4857397541253,2019
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.4739372182898,2011
+"{'id': 'XI', 'value': 'IDA only'}",22.4567808257734,2016
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.4387537758658,2013
+"{'id': 'XE', 'value': 'Heavily indebted poor countries (HIPC)'}",22.4362150185731,2021
+"{'id': 'XI', 'value': 'IDA only'}",22.4248142804081,2017
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.4201125188432,2016
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.4107105058646,2014
+"{'id': 'XI', 'value': 'IDA only'}",22.4055523563579,2018
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.3811164645277,2018
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.3690308767713,2012
+"{'id': 'XH', 'value': 'IDA blend'}",22.3259249742492,2021
+"{'id': 'XI', 'value': 'IDA only'}",22.3107338633535,2020
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.300512624368,2017
+"{'id': 'XI', 'value': 'IDA only'}",22.3003795502032,2019
+"{'id': '1A', 'value': 'Arab World'}",22.24092133369,2011
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",22.1814939357203,2019
+"{'id': 'F1', 'value': 'Fragile and conflict affected situations'}",22.1306392967672,2021
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.1188800254848,2018
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",22.1101927436556,2017
+"{'id': 'S3', 'value': 'Caribbean small states'}",22.1053205339094,2010
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.0985559113195,2019
+"{'id': '1A', 'value': 'Arab World'}",22.0938235200213,2012
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.0328296913163,2016
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",22.0204596641822,2015
+"{'id': 'XL', 'value': 'Least developed countries: UN classification'}",21.9835603197767,2021
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",21.9679676384063,2019
+"{'id': 'ZH', 'value': 'Africa Eastern and Southern'}",21.9502793265639,2021
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",21.9358107896556,2017
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",21.926273221937,2013
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",21.9012013825088,2018
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",21.8636001060881,2020
+"{'id': 'XG', 'value': 'IDA total'}",21.7986445870339,2021
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",21.7794880371978,2021
+"{'id': 'V2', 'value': 'Early-demographic dividend'}",21.7747668928522,2014
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",21.7693643255358,2010
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.7501493644252,2014
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.7479702240566,2011
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",21.7223372539927,2011
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",21.6472804956261,2012
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",21.6432345221682,2010
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.6337496837021,2013
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",21.6323694925824,2010
+"{'id': '1A', 'value': 'Arab World'}",21.6262996727592,2015
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",21.6240432431071,2010
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.6073351762605,2015
+"{'id': 'XI', 'value': 'IDA only'}",21.5346566069252,2021
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",21.5145229826634,2013
+"{'id': '1A', 'value': 'Arab World'}",21.5105749049956,2013
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.5039461973799,2012
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",21.4833003491894,2010
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.4635697448566,2020
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",21.4624437454656,2019
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.4576900639273,2019
+"{'id': '1A', 'value': 'Arab World'}",21.4449220007484,2014
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.4086848643211,2016
+"{'id': 'XO', 'value': 'Low & middle income'}",21.4002476473126,2010
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",21.346144101576,2011
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",21.3205802375854,2014
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",21.2984729365179,2012
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",21.2905366782406,2011
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",21.2895819062661,2012
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",21.275193054128,2011
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.2395811155888,2017
+"{'id': 'S3', 'value': 'Caribbean small states'}",21.2309182402835,2018
+"{'id': '1A', 'value': 'Arab World'}",21.1895885249652,2016
+"{'id': 'XO', 'value': 'Low & middle income'}",21.1843887699215,2011
+"{'id': 'XP', 'value': 'Middle income'}",21.181892322865,2010
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",21.1707734773744,2015
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",21.1644952932605,2015
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",21.1393200838383,2015
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",21.0985386529635,2012
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",21.0953043211329,2020
+"{'id': 'XF', 'value': 'IBRD only'}",21.0942576713649,2010
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",21.0107562116412,2020
+"{'id': '1A', 'value': 'Arab World'}",20.9843329248905,2018
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",20.9742421234034,2016
+"{'id': 'XO', 'value': 'Low & middle income'}",20.9737653727884,2012
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",20.9597855650118,2020
+"{'id': 'XP', 'value': 'Middle income'}",20.9579462065566,2011
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",20.9014327108876,2011
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",20.8969044832687,2014
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",20.8920748637925,2014
+"{'id': '1A', 'value': 'Arab World'}",20.8891406176307,2019
+"{'id': '1A', 'value': 'Arab World'}",20.8641443540089,2017
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",20.8596521724631,2013
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",20.8585138171488,2013
+"{'id': 'XF', 'value': 'IBRD only'}",20.817220539049,2011
+"{'id': 'T7', 'value': 'Europe & Central Asia (IDA & IBRD countries)'}",20.7654157110679,2021
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",20.7641350736067,2016
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",20.7545841254156,2016
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",20.7513104360238,2017
+"{'id': 'XP', 'value': 'Middle income'}",20.7479627548735,2012
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",20.6590132203976,2012
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",20.6504800071489,2013
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",20.6416202020647,2018
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",20.6285129372989,2010
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",20.6270816307161,2010
+"{'id': '1A', 'value': 'Arab World'}",20.6099712003165,2020
+"{'id': 'XF', 'value': 'IBRD only'}",20.5765808562873,2012
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",20.5487160484445,2010
+"{'id': 'XO', 'value': 'Low & middle income'}",20.5469501352952,2013
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",20.5262659614271,2019
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",20.4262136598422,2014
+"{'id': 'ZI', 'value': 'Africa Western and Central'}",20.4120478246161,2021
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",20.3789390987195,2018
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",20.3616174065953,2018
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",20.3609751688867,2015
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",20.3560346154664,2017
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",20.3432052502255,2017
+"{'id': 'XP', 'value': 'Middle income'}",20.3034076751198,2013
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",20.287126244685,2019
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",20.2788431583396,2011
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",20.2764865516195,2016
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",20.2720634994256,2019
+"{'id': 'XO', 'value': 'Low & middle income'}",20.2695500792664,2014
+"{'id': 'XO', 'value': 'Low & middle income'}",20.2624036924865,2015
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",20.2229406521734,2013
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",20.1926808251051,2011
+"{'id': '7E', 'value': 'Europe & Central Asia (excluding high income)'}",20.1830611082026,2021
+"{'id': 'XO', 'value': 'Low & middle income'}",20.1701587315881,2016
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",20.1665612002211,2011
+"{'id': '1A', 'value': 'Arab World'}",20.1364438303813,2021
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",20.0801894081579,2018
+"{'id': 'XF', 'value': 'IBRD only'}",20.0684530212073,2013
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",20.0659619102776,2017
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",20.0623558765793,2010
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",20.0502480398482,2012
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",20.0139046396975,2012
+"{'id': 'XP', 'value': 'Middle income'}",20.0118133366381,2014
+"{'id': 'XP', 'value': 'Middle income'}",20.0017153239416,2015
+"{'id': 'XO', 'value': 'Low & middle income'}",20.0016214721407,2018
+"{'id': 'XO', 'value': 'Low & middle income'}",19.9940814698448,2017
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",19.9937392952543,2015
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",19.9614967744291,2019
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",19.9278242718342,2012
+"{'id': 'XO', 'value': 'Low & middle income'}",19.916639654794,2019
+"{'id': 'XP', 'value': 'Middle income'}",19.9065004816837,2016
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",19.8444380609973,2014
+"{'id': 'XF', 'value': 'IBRD only'}",19.8280718777542,2014
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",19.7894997296037,2020
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.780157767932,2015
+"{'id': 'XF', 'value': 'IBRD only'}",19.7758583855712,2015
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",19.7750552242296,2020
+"{'id': 'XP', 'value': 'Middle income'}",19.7348199322308,2018
+"{'id': 'XO', 'value': 'Low & middle income'}",19.7324258204487,2020
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",19.7319221872231,2020
+"{'id': 'XP', 'value': 'Middle income'}",19.7223616541957,2017
+"{'id': 'XF', 'value': 'IBRD only'}",19.6980779346433,2016
+"{'id': 'ZT', 'value': 'IDA & IBRD total'}",19.6726046969681,2021
+"{'id': 'XO', 'value': 'Low & middle income'}",19.6627138860404,2021
+"{'id': 'XP', 'value': 'Middle income'}",19.6491077113908,2019
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.5863919142491,2013
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.5836572002297,2014
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",19.5732824514269,2011
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",19.534491875136,2013
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",19.50089846996,2010
+"{'id': 'XF', 'value': 'IBRD only'}",19.4924520826193,2018
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",19.4848197588692,2016
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",19.4686636968386,2010
+"{'id': 'XF', 'value': 'IBRD only'}",19.4575072518438,2017
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",19.4418498535005,2013
+"{'id': 'XP', 'value': 'Middle income'}",19.4295797052948,2020
+"{'id': 'XP', 'value': 'Middle income'}",19.4131484296597,2021
+"{'id': 'T3', 'value': 'Middle East & North Africa (IDA & IBRD countries)'}",19.4045300398465,2021
+"{'id': 'XQ', 'value': 'Middle East & North Africa (excluding high income)'}",19.394933027117,2021
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.3902072145185,2016
+"{'id': 'XF', 'value': 'IBRD only'}",19.3753891548427,2019
+"{'id': 'S3', 'value': 'Caribbean small states'}",19.3059824717861,2021
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",19.2811997492132,2017
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",19.235474353813,2018
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",19.1852044632479,2011
+"{'id': 'XF', 'value': 'IBRD only'}",19.1654358569345,2021
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",19.1583439904035,2012
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.140110654591,2018
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",19.1104865198785,2014
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.0909866282615,2017
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",19.0812032466457,2019
+"{'id': 'XF', 'value': 'IBRD only'}",19.0555099699635,2020
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",19.013211570441,2014
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",18.9312639932498,2012
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",18.8405514209094,2015
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",18.8223382028375,2020
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",18.821098200299,2011
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",18.7381446918498,2015
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",18.6685032211987,2019
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",18.6233832432638,2013
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",18.6205481942835,2016
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",18.5988210976909,2020
+"{'id': 'B8', 'value': 'Central Europe and the Baltics'}",18.5850457355208,2021
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",18.5224816827466,2016
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",18.4852672042781,2013
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",18.334932040016,2012
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",18.306521146894,2017
+"{'id': 'ZQ', 'value': 'Middle East & North Africa'}",18.3003367899805,2021
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",18.2663760606184,2014
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",18.217787783333,2017
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",18.0934856207435,2014
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",18.074276859646,2018
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",17.994392537772,2018
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",17.9518922974306,2014
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",17.9450576905199,2019
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",17.8922557076099,2015
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",17.883416380291,2013
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",17.8641020243465,2019
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",17.8302639882389,2015
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",17.8139500657651,2021
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",17.74273877724,2021
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",17.6674943700797,2016
+"{'id': '4E', 'value': 'East Asia & Pacific (excluding high income)'}",17.650605683817,2020
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",17.6369394404241,2016
+"{'id': 'T4', 'value': 'East Asia & Pacific (IDA & IBRD countries)'}",17.5701823110734,2020
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",17.4923379350333,2015
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",17.3502263416317,2017
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",17.3144888880753,2016
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",17.2926074416128,2017
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",17.1394367076022,2018
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",17.0546793960489,2018
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",17.0291843436807,2019
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",16.9097548023485,2021
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",16.9013083819824,2017
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",16.8496194012622,2018
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",16.7995745751483,2019
+"{'id': 'Z4', 'value': 'East Asia & Pacific'}",16.7565317239183,2020
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",16.4578796489345,2021
+"{'id': 'V3', 'value': 'Late-demographic dividend'}",16.3847770263388,2020
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",16.3691096013233,2019
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",16.1695978626708,2010
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",16.0281096668603,2010
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",16.0233479134196,2010
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.9054383745211,2011
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",15.8832815188569,2020
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.8126271870255,2011
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.8014597570703,2011
+"{'id': 'Z7', 'value': 'Europe & Central Asia'}",15.7496590800076,2021
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.6924789395426,2012
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.5967886430254,2012
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.5866194311051,2012
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.4971448099233,2013
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.4562393434787,2016
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.4337501695654,2016
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.4298448267372,2016
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.3871647326352,2013
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.3849520395882,2013
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.3655335448876,2015
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.3394131466543,2014
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.2944825298501,2015
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.2886722640266,2015
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.2591535644148,2014
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.2527938026106,2014
+"{'id': 'XD', 'value': 'High income'}",15.1912432869951,2010
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.1381430442139,2017
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",15.1168252688538,2020
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.092011831445,2017
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.068983557304,2017
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",15.0636222944035,2020
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",15.0471742505863,2020
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",14.9587463318732,2018
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",14.9179185284816,2018
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",14.9033782783309,2018
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",14.8445533031096,2019
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",14.818455532284,2019
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",14.7962681904129,2019
+"{'id': 'XJ', 'value': 'Latin America & Caribbean (excluding high income)'}",14.7538184684863,2021
+"{'id': 'XD', 'value': 'High income'}",14.7496012939006,2011
+"{'id': 'ZJ', 'value': 'Latin America & Caribbean'}",14.730596826236,2021
+"{'id': 'T2', 'value': 'Latin America & the Caribbean (IDA & IBRD countries)'}",14.6933682733684,2021
+"{'id': 'XD', 'value': 'High income'}",14.4113036070439,2012
+"{'id': 'EU', 'value': 'European Union'}",14.1488563287669,2010
+"{'id': 'XU', 'value': 'North America'}",14.1449764442183,2010
+"{'id': 'XD', 'value': 'High income'}",14.107249502064,2013
+"{'id': 'XD', 'value': 'High income'}",14.0892328657727,2014
+"{'id': 'XU', 'value': 'North America'}",13.9445171994172,2011
+"{'id': 'EU', 'value': 'European Union'}",13.8894100308151,2011
+"{'id': 'XD', 'value': 'High income'}",13.8575937048557,2015
+"{'id': 'XU', 'value': 'North America'}",13.8435158328294,2012
+"{'id': 'XD', 'value': 'High income'}",13.7375976127694,2016
+"{'id': 'EU', 'value': 'European Union'}",13.6814324597654,2012
+"{'id': 'XU', 'value': 'North America'}",13.6423186906115,2013
+"{'id': 'XU', 'value': 'North America'}",13.6208272030531,2015
+"{'id': 'XU', 'value': 'North America'}",13.5415146715701,2014
+"{'id': 'XU', 'value': 'North America'}",13.5308289671099,2016
+"{'id': 'EU', 'value': 'European Union'}",13.459199612947,2013
+"{'id': 'XD', 'value': 'High income'}",13.4499623134457,2017
+"{'id': 'XD', 'value': 'High income'}",13.35612032478,2018
+"{'id': 'XU', 'value': 'North America'}",13.3088675099949,2017
+"{'id': 'XU', 'value': 'North America'}",13.2723372968186,2021
+"{'id': 'XU', 'value': 'North America'}",13.2158207148216,2020
+"{'id': 'EU', 'value': 'European Union'}",13.1861659943041,2015
+"{'id': 'EU', 'value': 'European Union'}",13.1361450545107,2014
+"{'id': 'XU', 'value': 'North America'}",13.1070331606802,2018
+"{'id': 'XD', 'value': 'High income'}",12.9996532634129,2019
+"{'id': 'EU', 'value': 'European Union'}",12.9182984028039,2016
+"{'id': 'XU', 'value': 'North America'}",12.8153195815189,2019
+"{'id': 'XD', 'value': 'High income'}",12.8151921671499,2021
+"{'id': 'XD', 'value': 'High income'}",12.7835012063319,2020
+"{'id': 'EU', 'value': 'European Union'}",12.7496649239305,2017
+"{'id': 'EU', 'value': 'European Union'}",12.6218469712824,2018
+"{'id': 'XC', 'value': 'Euro area'}",12.3342004924871,2010
+"{'id': 'EU', 'value': 'European Union'}",12.2600843683657,2019
+"{'id': 'EU', 'value': 'European Union'}",12.1561273785197,2020
+"{'id': 'XC', 'value': 'Euro area'}",12.1560331621455,2011
+"{'id': 'EU', 'value': 'European Union'}",12.1153630619175,2021
+"{'id': 'XC', 'value': 'Euro area'}",11.9363047236915,2012
+"{'id': 'XC', 'value': 'Euro area'}",11.7697733353714,2013
+"{'id': 'XC', 'value': 'Euro area'}",11.485993450286,2015
+"{'id': 'XC', 'value': 'Euro area'}",11.4466515862634,2014
+"{'id': 'XC', 'value': 'Euro area'}",11.2688098194716,2016
+"{'id': 'XC', 'value': 'Euro area'}",11.1115435970205,2017
+"{'id': 'XC', 'value': 'Euro area'}",10.9581983766198,2018
+"{'id': 'XC', 'value': 'Euro area'}",10.6474664160071,2019
+"{'id': 'XC', 'value': 'Euro area'}",10.5482432534786,2021
+"{'id': 'XC', 'value': 'Euro area'}",10.4949060301653,2020
